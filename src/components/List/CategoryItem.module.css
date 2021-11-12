@@ -1,0 +1,15 @@
+.CategoryItems {
+    width: 47%;
+    margin-bottom: 5%;
+    border: 1px solid gray;
+    border-radius: 5%;
+    background-color: lightgray;
+}
+.img {
+    width: 100%;
+    border-radius: 5%;
+}
+.font{
+    color: black;
+    font-size: 2rem;
+}
