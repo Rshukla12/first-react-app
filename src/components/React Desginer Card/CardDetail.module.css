@@ -1,0 +1,21 @@
+.CardDetail{
+    width: 90%;
+    height: 52%;
+    padding: 0% 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.DishDetail{
+    font-size: 1.3rem;
+    height: 30%;
+    color: #888888;
+}
+.Header {
+    padding-top: 0.2rem;
+    font-size: 0.75rem;
+}
+.Header, .Footer {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.DishDetails{
+    display: flex;
+    justify-content: space-between;
+    color: #888888;
+    font-size: 1.1rem;
+    width: 100%;
+}

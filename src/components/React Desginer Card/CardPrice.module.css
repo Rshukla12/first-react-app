@@ -1,0 +1,15 @@
+.CardPrice {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+.Old {
+    color: #eb5b3f;
+    text-decoration: line-through;
+    font-size: 1.5rem;
+    padding-top: 0.35rem;
+}
+.New {
+    font-weight: 500;
+    font-size: 2rem;
+}
