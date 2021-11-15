@@ -1,6 +1,4 @@
 .App {
-  /* background-color: aqua; */
-  padding: 0.5% 1% 25%;
-  /* text-align: center; */
-  height: 80vh;
+  font-family: sans-serif;
+  text-align: center;
 }
