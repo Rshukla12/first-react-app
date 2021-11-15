@@ -1,5 +1,6 @@
 import './App.css';
-import ToDo from './components/ToDo We/ToDo';
+import Counter from './components/Counter/Counter';
+// import ToDo from './components/ToDo We/ToDo';
 // import Menu from './components/React Desginer Card/Menu';
 // import UnOrderedList from './components/unordered list/UnOrderedList';
 // import List from './components/List/List';
@@ -11,8 +12,9 @@ function App() {
       {/* <UnOrderedList />
       <List /> 
       <MobileOS /> 
-      <Menu /> */}
-      <ToDo />
+      <Menu /> 
+      <ToDo /> */}
+      <Counter intial={0} />
     </div>
   );
 }
