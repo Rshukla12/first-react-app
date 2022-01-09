@@ -1,5 +1,6 @@
 import './App.css';
-import ToDo from './components/ToDo App/ToDo';
+import PaymentCardApp from './components/Payment Card/PaymentCardApp';
+// import ToDo from './components/ToDo App/ToDo';
 // import Counter from './components/Counter/Counter';
 // import ToDo from './components/ToDo We/ToDo';
 // import Menu from './components/React Desginer Card/Menu';
@@ -16,7 +17,8 @@ function App() {
       <Menu /> 
       <ToDo /> 
       <Counter intial={0} /> */}
-      <ToDo />
+      {/* <ToDo /> */}
+      <PaymentCardApp />
     </div>
   );
 }

@@ -1,0 +1,25 @@
+.root {
+    width: 90%;
+    max-width: 70rem;
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    text-align: left;
+    margin: 1rem 2rem;
+    gap: 10rem;
+}
+
+.root > div {
+    display: flex;
+    width: 10rem;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.root > div:nth-child(2) {
+    width: 4rem;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+}
